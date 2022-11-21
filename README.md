@@ -50,6 +50,6 @@ Area of a triangle calculator using side lengths calculated with Heron's formula
 Created by Nasser Kessas
 
 ## Contributing
-PRs and new scripts accepted, feel free to dive in! [Open an issue](https://github.com/nasserkessas/js-sidescroll-engine/issues/new) or submit PRs.
+PRs and new scripts accepted, feel free to add some of your own! [Open an issue](https://github.com/nasserkessas/js-sidescroll-engine/issues/new) or submit PRs.
 
 This repository follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
